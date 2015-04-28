@@ -1,0 +1,40 @@
+You log goes in this  file.
+
+Note: My work/life schedule is such that my only long contiguous blocks of available time are Friday-Sunday, so that is when I get most of my coding work done. The earlier part of the week is spent on lectures and reading. I did not see the instructor’s comment on Piazza that these activities could be included in the work log until I began the assignment in earnest and became aware of the work log requirement. Therefore, this work log is more or less limited to time spent in front of my computer writing code (and researching when stuck) for the assignment. 
+
+ASSIGNMENT 3, PART 1
+
+Start: Wed, 22 Apr 2015 11:45:00 -0800
+End: Wed, 22 Apr 2015 12:52:26 -0800
+Tasks: Thoroughly read all assignment requirements and documents and cloned repository to my gitHub account and computer.
+
+Start: Fri, 24 Apr 2015 15:37:00 -0800
+End: Sat, 25 Apr 2015 00:27:26 -0800
+Tasks: Completed variables.js. Mostly finished objects.js and functions.js but still have minor errors. I did eat dinner and take my dog for a walk during this period (~1 hour) but was otherwise working steadily. The ParseGit function ate up most of this time. 
+
+Start: Sat, 25 Apr 2015 10:34:00 -800
+End: Sat, 25 Apr 2015 14:00:00 -800
+Tasks: Finished objects.js within about 45 minutes. Spent the rest of the time getting ParseGit function output to go from “\“initial commit”\” to “initial commit”. 
+
+
+ASSIGNMENT 3, PART 2
+Start: Sat, 25 Apr 2015 17:00:00 -800
+End: Sat, 25 Apr 2015 19:30:00 -800
+Tasks: Attended tutorial session put on (via goToMeeting) by a OSU peer tutor. Went through process of fetching data through openweather.org API. Wrote all code along with lecturer and got functioning website working that was retrieving weather data.  
+
+Start: Sun, 26 Apr 2015 09:17:00 -800
+End: Sun, 26 Apr 2015 14:02:00 -800
+Tasks: Created initial layout of page with radio buttons and search button. Successfully retrieved api data from gitHub website, but got stuck on trying to parse JSON data. 
+
+Start: Sun, 26 Apr 2015 16:47:00 -800
+End: Mon, 27 Apr 2015 00:21:00 -800
+Tasks: Was finally able to get webpage to display urls and/or descriptions from retrieved data. Completely lost on next steps, so I spent the rest of the day reading through every Piazza thread and watching a couple hours of BuckysRoom tutorials. I didn’t make much progress on the code, and I think I was seeing diminishing returns as my brain fatigued. 
+
+Start: Mon, 27 Apr 2015 10:24:00 -800
+End: Mon, 27 Apr 2015 13:12:00 -800
+Tasks: Took one last stab at getting something approximating the assignment requirements before the 12 hour late deadline. Was able to add working link to url. 
+
+Start: Tues, 27 Apr 2015 10:45:00 -800
+End: Tues, 27 Apr 2015 11:52:00 -800
+Tasks: Officially throwing in the towel on this assignment so that I can move on to week 5 material. Cleaned up/deleted a lot of my non-working code. 
+
